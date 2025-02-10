@@ -1,5 +1,7 @@
 <p align="center">
-  <img height="200" width="400" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kdh940" onclick="window.location.href='https://solved.ac/profile/kdh940';" style="cursor: pointer;"/>
+  <a href="https://solved.ac/profile/kdh940">
+    <img height="200" width="400" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kdh940"/>
+  </a>
   <img height="200" src="https://streak-stats.demolab.com/?user=DNGHKM&theme=buefy&border=E4E2E2&card_width=400" />
 </p>
 <br>
